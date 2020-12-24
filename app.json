@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Your App Name",
+    "name": "BleDemo",
     "version": "1.0.0",
     "icon": "./app-icon.png",
     "sdkVersion": "25.0.0",
